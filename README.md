@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá me chamo Rodrigo e aqui está um pouco sobre mim:
 
+
+- 🔭 Atualmente estou em busca de um vaga de emprego 
+- 🌱 Estou aprendendo a linguagem Java na Universidade São Judas Tadeu
+- 📫 Você pode me encontrar via Instagram ou Linkedin
+- 📷 Instagram: rod_digao15
+- 💼 Linkedin: www.linkedin.com/in/rodrigo-teiga-577922204
+- ⚡ Fun Fact: Custumo sempre tentar ajudar os outros
 <!--
 **Roddzzz/Roddzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou em busca de um vaga de emprego 
+- 🌱 Estou aprendendo a linguagem Java na Universidade São Judas Tadeu
+- 📫 Você pode me encontrar via Instagram ou Linkedin
+- 📷 Instagram: rod_digao15
+- 💼 Linkedin: www.linkedin.com/in/rodrigo-teiga-577922204
+- ⚡ Fun Fact: Custumo sempre tentar ajudar os outros
 -->
