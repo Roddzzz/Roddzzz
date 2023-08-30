@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou em busca de um vaga de emprego 
 - 🌱 Aprendi o básico da linguagem Java na Universidade São Judas Tadeu
-- 👨‍🎓​ Atuelamente estudando na FIT - Faculdade Impacta Tecnologia
+- 👨‍🎓​ Atualmente estudando na FIT - Faculdade Impacta Tecnologia
 - 📫 Você pode me encontrar via Instagram ou Linkedin
 - 📷 Instagram: _roddz
 - 💼 Linkedin: www.linkedin.com/in/rodrigo-teiga-577922204
