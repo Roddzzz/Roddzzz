@@ -1,7 +1,7 @@
 ### Olá me chamo Rodrigo e aqui está um pouco sobre mim:
 
 
-- 🔭 Atualmente estou em busca de um vaga de emprego 
+- 🔭 Atualmente estou em busca de um vaga de emprego na área de desenvolvimento
 - 🌱 Aprendi o básico da linguagem Java na Universidade São Judas Tadeu
 - 👨‍🎓​ Atualmente estudando na FIT - Faculdade Impacta Tecnologia
 - 📫 Você pode me encontrar via Instagram ou Linkedin
